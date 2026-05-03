@@ -189,7 +189,7 @@ web-lab/
 
 ## 🔥 Challenge Mode (No Guidance)
 
-Selesaikan semua tugas berikut **tanpa melihat langkah sebelumnya** dan **tanpa bantuan command**.
+Selesaikan semua tugas berikut.
 
 ---
 
